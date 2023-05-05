@@ -1,7 +1,7 @@
 # DS210_FinalProject
 Boston University, DS210 Final Project - 2023 Spring
 Title: Analyzing Twitter Networks
-Author: [Your Name]
+Author: Ozgur Selcuk Sen
 
 This repository contains the code and final report for the Analyzing Twitter Networks project. 
 The project aims to identify the most influential users in a Twitter network and analyze their closeness centrality. 
